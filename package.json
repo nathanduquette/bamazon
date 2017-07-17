@@ -1,0 +1,28 @@
+{
+  "name": "hw-9",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "bamazon.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.2.0",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanduquette/bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "nathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanduquette/bamazon/issues"
+  },
+  "homepage": "https://github.com/nathanduquette/bamazon#readme"
+}
